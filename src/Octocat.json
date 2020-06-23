@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "pictureWebsite": "https://octodex.github.com//terracottocat/",
+    "image": "https://octodex.github.com//images/Terracottocat_Single.png",
+    "imageNumber": "# 1",
+    "name": "Terracottocat",
+    "author": "https://github.com/chubbmo",
+    "authorPicture": "https://github.com/chubbmo.png"
+  },
+  {
+    "id": 2,
+    "pictureWebsite": "https://octodex.github.com//octogatos/",
+    "image": "https://octodex.github.com//images/Octogatos.png",
+    "imageNumber": "# 2",
+    "name": "Octogatos",
+    "author": "https://github.com/cameronfoxly",
+    "authorPicture": "https://github.com/cameronfoxly.png"
+  },
+  {
+    "id": 3,
+    "pictureWebsite": "https://octodex.github.com//adacats/",
+    "image": "https://octodex.github.com//images/Adacats.png",
+    "imageNumber": "# 3",
+    "name": "Adacats",
+    "author": "https://github.com/cameronfoxly",
+    "authorPicture": "https://github.com/cameronfoxly.png"
+  },
+  {
+    "id": 4,
+    "pictureWebsite": "https://octodex.github.com//fintechtocat/",
+    "image": "https://octodex.github.com//images/Fintechtocat.png",
+    "imageNumber": "# 4",
+    "name": "Fintechtocat",
+    "author": "https://github.com/ceciliorz",
+    "authorPicture": "https://github.com/ceciliorz.png"
+  },
+  {
+    "id": 5,
+    "pictureWebsite": "https://octodex.github.com//brennatocat/",
+    "image": "https://octodex.github.com//images/Brennatocat.png",
+    "imageNumber": "# 5",
+    "name": "Brennatocat",
+    "author": "https://github.com/johncreek",
+    "authorPicture": "https://github.com/johncreek.png"
+  },
+  {
+    "id": 6,
+    "pictureWebsite": "https://octodex.github.com//sentrytocat/",
+    "image": "https://octodex.github.com//images/Sentrytocat_octodex.jpg",
+    "imageNumber": "# 6",
+    "name": "Sentryocat",
+    "author": "https://github.com/cameronmcefee",
+    "authorPicture": "https://github.com/cameronmcefee.png"
+  },
+  {
+    "id": 7,
+    "pictureWebsite": "https://octodex.github.com//umbrellatocat/",
+    "image": "https://octodex.github.com//images/puddle_jumper_octodex.jpg",
+    "imageNumber": "# 7",
+    "name": "Umbrellatocat",
+    "author": "https://github.com/rubyjazzy",
+    "authorPicture": "https://github.com/rubyjazzy.png"
+  },
+  {
+    "id": 8,
+    "pictureWebsite": "https://octodex.github.com//suftocat/",
+    "image": "https://octodex.github.com//images/surftocat.png",
+    "imageNumber": "# 8",
+    "name": "Suftocat",
+    "author": "https://github.com/jeejkang",
+    "authorPicture": "https://github.com/jeejkang.png"
+  },
+  {
+    "id": 9,
+    "pictureWebsite": "https://octodex.github.com//hulatocat/",
+    "image": "https://octodex.github.com//images/hula_loop_octodex03.gif",
+    "imageNumber": "# 9",
+    "name": "Hulatocat",
+    "author": "https://github.com/heyhayhay",
+    "authorPicture": "https://github.com/heyhayhay.png"
+  },
+  {
+    "id": 10,
+    "pictureWebsite": "https://octodex.github.com//scubatocat/",
+    "image": "https://octodex.github.com//images/scubatocat.png",
+    "imageNumber": "# 10",
+    "name": "Scubatocat",
+    "author": "https://github.com/cameronfoxly",
+    "authorPicture": "https://github.com/cameronfoxly.png"
+  },
+  {
+    "id": 11,
+    "pictureWebsite": "https://octodex.github.com//snowtocat/",
+    "image": "https://octodex.github.com//images/snowtocat_final.jpg",
+    "imageNumber": "# 11",
+    "name": "Snowtocat",
+    "author": "https://github.com/heyhayhay",
+    "authorPicture": "https://github.com/heyhayhay.png"
+  },
+  {
+    "id": 12,
+    "pictureWebsite": "https://octodex.github.com//justicetocat/",
+    "image": "https://octodex.github.com//images/justicetocat.jpg",
+    "imageNumber": "# 12",
+    "name": "Justicetocat",
+    "author": "https://github.com/heyhayhay",
+    "authorPicture": "https://github.com/heyhayhay.png"
+  }
+]
